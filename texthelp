@@ -1,4 +1,4 @@
 Ideas for "open saved file" - if user is already working on a list,
 make a check that tells the program if the user is working on a list
 if yes, then ask the user if he/She wants to save the current list
-to open the new one.
+to open the new one. If line is Even.
